@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life is so short...</title>
+    <link>https://www.codingintherain.me/</link>
+    <description>Recent content on Life is so short...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://www.codingintherain.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>README</title>
+      <link>https://www.codingintherain.me/readme/</link>
+      <pubDate>Sat, 31 Dec 2022 12:43:22 +0800</pubDate>
+      
+      <guid>https://www.codingintherain.me/readme/</guid>
+      <description>I hope I can make the world better.</description>
+    </item>
+    
+  </channel>
+</rss>
